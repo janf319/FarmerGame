@@ -1,0 +1,8 @@
+C:\Users\Fatima\source\repos\Jan-FarmerGame\bin\Debug\Jan-FarmerGame.exe.config
+C:\Users\Fatima\source\repos\Jan-FarmerGame\bin\Debug\Jan-FarmerGame.exe
+C:\Users\Fatima\source\repos\Jan-FarmerGame\bin\Debug\Jan-FarmerGame.pdb
+C:\Users\Fatima\source\repos\Jan-FarmerGame\obj\Debug\Jan-FarmerGame.csproj.AssemblyReference.cache
+C:\Users\Fatima\source\repos\Jan-FarmerGame\obj\Debug\Jan-FarmerGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fatima\source\repos\Jan-FarmerGame\obj\Debug\Jan-FarmerGame.csproj.CoreCompileInputs.cache
+C:\Users\Fatima\source\repos\Jan-FarmerGame\obj\Debug\Jan-FarmerGame.exe
+C:\Users\Fatima\source\repos\Jan-FarmerGame\obj\Debug\Jan-FarmerGame.pdb
